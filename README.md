@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AJStill99
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alexstill@hotmail.co.uk
 
