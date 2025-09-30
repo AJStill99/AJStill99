@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AJStill99
+- 👋 Hi, I’m Alexander Still
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning QA Engineering Techniques and Methodologies
 - 📫 How to reach me alexstill@hotmail.co.uk
 
 <!---
