@@ -67,9 +67,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Activity:</h3>
-
-###
-
-###
